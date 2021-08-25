@@ -6,7 +6,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Website</title>
+    <title> Website </title>
     <!-- <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <script src="bootstrap/js/bootstrap.js"></script> -->
 
@@ -300,7 +300,7 @@
     <footer>
         <div class="logo-div">
             <img src="images/logo.png" alt="logo" />
-            <p>Copyright@2021 shreshthaindoriya</p>
+            <p>Copyright@2021 shreshthaindoriya | made by : shreshtha indoriya</p>
         </div>
 
 
